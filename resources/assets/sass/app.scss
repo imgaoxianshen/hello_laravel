@@ -69,6 +69,17 @@ p {
 }
 
 
+/* header */
+
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
+
+
 
 footer {
   margin-top: 45px;
